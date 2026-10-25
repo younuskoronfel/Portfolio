@@ -2,7 +2,7 @@
 
 A responsive editorial portfolio built from Younus Koronfel's supplied resume.
 
-Open `dist/index.html` in a browser, or serve `dist` with a static HTTP server. No build or dependencies required. All website source is in `dist/`: HTML, CSS, JavaScript, and the original resume PDF.
+Open `dist/index.html` directly in a browser, or serve `dist/` with a static HTTP server. All website files—HTML, CSS, JavaScript, photo, and resume—are in `dist/`. Edit those files directly. No build script or dependencies are required.
 
 Features: project filters, accessible project dialogs, contact links, email copying, resume download, responsive layouts, and reduced-motion support. Google Fonts are optional; local fallback fonts keep the site functional offline.
 
